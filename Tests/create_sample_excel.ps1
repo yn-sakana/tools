@@ -59,6 +59,44 @@ for ($r = 0; $r -lt $data.Count; $r++) {
     for ($c = 0; $c -lt $data[$r].Count; $c++) { $ws4.Cells.Item($r+2, $c+1) = $data[$r][$c] }
 }
 
+# --- employees (大量データ: 200件, 10フィールド) ---
+$ws5 = $wb.Sheets.Add([System.Reflection.Missing]::Value, $wb.Sheets.Item($wb.Sheets.Count))
+$ws5.Name = "employees"
+$eHeaders = @("employee_id", "full_name", "department_name", "position_title", "email_address", "phone_number", "hire_date", "monthly_salary", "document_folder_path", "intranet_profile_url")
+for ($c = 0; $c -lt $eHeaders.Count; $c++) { $ws5.Cells.Item(1, $c+1) = $eHeaders[$c] }
+
+$depts = @("営業部", "開発部", "総務部", "企画部", "経理部", "人事部", "広報部", "法務部")
+$positions = @("部長", "課長", "係長", "主任", "一般")
+$lastNames = @("田中", "鈴木", "佐藤", "高橋", "渡辺", "伊藤", "山本", "中村", "小林", "加藤")
+$firstNames = @("太郎", "花子", "一郎", "美咲", "健太", "由美", "大輔", "恵子", "翔太", "あかり")
+
+for ($r = 0; $r -lt 200; $r++) {
+    $id = "E{0:D4}" -f ($r + 1)
+    $ln = $lastNames[$r % $lastNames.Count]
+    $fn = $firstNames[[math]::Floor($r / $lastNames.Count) % $firstNames.Count]
+    $fullName = "$ln$fn"
+    $dept = $depts[$r % $depts.Count]
+    $pos = $positions[$r % $positions.Count]
+    $email = "emp{0:D4}@example.com" -f ($r + 1)
+    $phone = "03-{0:D4}-{1:D4}" -f (1000 + $r), (5000 + $r)
+    $hireDate = (Get-Date "2015-04-01").AddDays($r * 7).ToString("yyyy-MM-dd")
+    $salary = 250000 + ($r * 5000)
+    $path = "C:\Users\ynisi\Documents\employees\$id"
+    $url = "https://intranet.example.com/profile/$id"
+
+    $ws5.Cells.Item($r + 2, 1) = $id
+    $ws5.Cells.Item($r + 2, 2) = $fullName
+    $ws5.Cells.Item($r + 2, 3) = $dept
+    $ws5.Cells.Item($r + 2, 4) = $pos
+    $ws5.Cells.Item($r + 2, 5) = $email
+    $ws5.Cells.Item($r + 2, 6) = $phone
+    $ws5.Cells.Item($r + 2, 7) = $hireDate
+    $ws5.Cells.Item($r + 2, 8) = $salary
+    $ws5.Cells.Item($r + 2, 9) = $path
+    $ws5.Cells.Item($r + 2, 10) = $url
+}
+Write-Host "employees: 200 records created"
+
 $savePath = "C:\workspace\dev\tools\Data\master.xlsx"
 $wb.SaveAs($savePath)
 $wb.Close()
