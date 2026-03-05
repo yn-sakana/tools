@@ -1,0 +1,37 @@
+[
+  {
+    "name": "田中太郎",
+    "email": "tanaka.taro@example.co.jp",
+    "company": "ABC商事",
+    "department": "営業部",
+    "saveFolder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\田中太郎_ABC商事"
+  },
+  {
+    "name": "佐藤花子",
+    "email": "sato.hanako@example.co.jp",
+    "company": "DEF工業",
+    "department": "総務部",
+    "saveFolder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\佐藤花子_DEF工業"
+  },
+  {
+    "name": "鈴木一郎",
+    "email": "suzuki.ichiro@example.co.jp",
+    "company": "GHI建設",
+    "department": "技術部",
+    "saveFolder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\鈴木一郎_GHI建設"
+  },
+  {
+    "name": "山田美咲",
+    "email": "yamada.misaki@example.co.jp",
+    "company": "ABC商事",
+    "department": "経理部",
+    "saveFolder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\山田美咲_ABC商事"
+  },
+  {
+    "name": "高橋健二",
+    "email": "takahashi.kenji@example.co.jp",
+    "company": "JKLシステム",
+    "department": "開発部",
+    "saveFolder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\高橋健二_JKLシステム"
+  }
+]

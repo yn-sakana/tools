@@ -1,0 +1,35 @@
+{
+  "basePath": "C:\\workspace\\dev\\tools",
+  "dataPath": "C:\\workspace\\dev\\tools\\Data",
+
+  "watchFolders": [
+    {
+      "path": "C:\\Users\\ynisi\\Downloads",
+      "filter": "*.*",
+      "action": "Move\\Action_Move"
+    }
+  ],
+
+  "contextMenu": [
+    {
+      "label": "タイムスタンプ付きリネーム",
+      "action": "Rename\\Action_Rename",
+      "target": "file"
+    },
+    {
+      "label": "ルールで仕分け移動",
+      "action": "Move\\Action_Move",
+      "target": "file"
+    }
+  ],
+
+  "folderTree": {
+    "excludeDirs": [".git", "node_modules", "__pycache__", ".myversions", ".vs"]
+  },
+
+  "outlook": {
+    "contactsFile": "C:\\workspace\\dev\\tools\\Data\\contacts.json",
+    "searchFolders": ["受信トレイ", "送信済みアイテム"],
+    "maxResults": 50
+  }
+}

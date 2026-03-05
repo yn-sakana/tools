@@ -1,0 +1,4 @@
+{
+  "template": "{テスト}_{date}{ext}",
+  "dateFormat": "yyyyMMdd"
+}

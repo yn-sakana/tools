@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "pattern": "^請求書.*\\.pdf$",
+      "destination": "C:\\workspace\\dev\\tools\\Tests\\Sorted\\請求書"
+    },
+    {
+      "pattern": "\\.xlsx$",
+      "destination": "C:\\workspace\\dev\\tools\\Tests\\Sorted\\Excel"
+    },
+    {
+      "pattern": "\\.docx$",
+      "destination": "C:\\workspace\\dev\\tools\\Tests\\Sorted\\Word"
+    }
+  ]
+}

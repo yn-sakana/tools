@@ -1,0 +1,200 @@
+﻿[2026-03-05 14:34:43] [INFO] config.json を読み込みました
+[2026-03-05 14:34:43] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:34:43] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:34:43] [INFO] [DryRun] 右クリックメニュー登録をスキップ
+[2026-03-05 14:34:43] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:34:43] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:34:44] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:34:44] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:34:44] [INFO] [DryRun] 右クリックメニュー解除をスキップ
+[2026-03-05 14:34:44] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:35:28] [INFO] config.json を読み込みました
+[2026-03-05 14:35:28] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:35:28] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:35:28] [INFO] [DryRun] 右クリックメニュー登録をスキップ
+[2026-03-05 14:35:28] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:35:28] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:35:28] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:35:28] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:35:28] [INFO] [DryRun] 右クリックメニュー解除をスキップ
+[2026-03-05 14:35:28] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:35:50] [INFO] config.json を読み込みました
+[2026-03-05 14:35:50] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:35:50] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:35:50] [INFO] [DryRun] 右クリックメニュー登録をスキップ
+[2026-03-05 14:35:50] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:35:50] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:35:50] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:35:50] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:35:50] [INFO] [DryRun] 右クリックメニュー解除をスキップ
+[2026-03-05 14:35:50] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:35:58] [INFO] config.json を読み込みました
+[2026-03-05 14:35:58] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:35:58] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:35:58] [INFO] [DryRun] 右クリックメニュー登録をスキップ
+[2026-03-05 14:35:58] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:35:58] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:35:58] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:35:58] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:35:58] [INFO] [DryRun] 右クリックメニュー解除をスキップ
+[2026-03-05 14:35:58] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:37:16] [INFO] config.json を読み込みました
+[2026-03-05 14:37:16] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:37:16] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:37:16] [INFO] [DryRun] 右クリックメニュー登録をスキップ
+[2026-03-05 14:37:16] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:37:16] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:40:50] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:40:50] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:40:50] [INFO] [DryRun] 右クリックメニュー解除をスキップ
+[2026-03-05 14:40:50] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:41:10] [INFO] config.json を読み込みました
+[2026-03-05 14:41:10] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:41:10] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:42:05] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:42:05] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:42:05] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:42:12] [INFO] config.json を読み込みました
+[2026-03-05 14:42:12] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:42:12] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:43:07] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:43:07] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:43:07] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:43:16] [INFO] config.json を読み込みました
+[2026-03-05 14:43:16] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:43:16] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:43:16] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:43:16] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:43:16] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:44:03] [INFO] config.json を読み込みました
+[2026-03-05 14:44:03] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:44:03] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:44:03] [INFO] 右クリックメニュー登録: 仕分け実行 -> Action_RenameMove
+[2026-03-05 14:44:03] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:44:03] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:47:08] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:47:08] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:47:08] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Action_RenameMove
+[2026-03-05 14:47:08] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:53:09] [INFO] config.json を読み込みました
+[2026-03-05 14:53:09] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:53:09] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:53:09] [INFO] 従来コンテキストメニューを有効化（エクスプローラー再起動）
+[2026-03-05 14:53:09] [INFO] 右クリックメニュー登録: 仕分け実行 -> Action_RenameMove
+[2026-03-05 14:53:09] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:53:09] [INFO] === MyAutomationEnv 起動完了 ===
+[2026-03-05 14:55:14] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:55:14] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:55:14] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Action_RenameMove
+[2026-03-05 14:55:14] [INFO] 従来コンテキストメニューを解除（エクスプローラー再起動）
+[2026-03-05 14:55:14] [INFO] === MyAutomationEnv 終了 ===
+[2026-03-05 14:55:18] [INFO] config.json を読み込みました
+[2026-03-05 14:55:18] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:55:18] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:55:18] [INFO] 従来コンテキストメニューを有効化（エクスプローラー再起動）
+[2026-03-05 14:55:18] [INFO] 右クリックメニュー登録: 仕分け実行 -> Action_RenameMove
+[2026-03-05 14:55:18] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:55:18] [INFO] === tools 起動完了 ===
+[2026-03-05 14:59:03] [INFO] === クリーンアップ開始 ===
+[2026-03-05 14:59:03] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 14:59:03] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Action_RenameMove
+[2026-03-05 14:59:03] [INFO] 従来コンテキストメニューを解除（エクスプローラー再起動）
+[2026-03-05 14:59:03] [INFO] === tools 終了 ===
+[2026-03-05 14:59:25] [INFO] config.json を読み込みました
+[2026-03-05 14:59:25] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 14:59:25] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 14:59:25] [INFO] 従来コンテキストメニューを有効化（エクスプローラー再起動）
+[2026-03-05 14:59:25] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Action_Rename
+[2026-03-05 14:59:25] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 14:59:25] [INFO] === tools 起動完了 ===
+[2026-03-05 15:08:23] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:08:23] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:08:23] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Action_Rename
+[2026-03-05 15:08:23] [INFO] 従来コンテキストメニューを解除（エクスプローラー再起動）
+[2026-03-05 15:08:23] [INFO] === tools 終了 ===
+[2026-03-05 15:08:33] [INFO] config.json を読み込みました
+[2026-03-05 15:08:33] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:08:33] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:08:33] [INFO] 従来コンテキストメニューを有効化（反映にはエクスプローラー再起動が必要）
+[2026-03-05 15:08:33] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:08:33] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:08:33] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:08:33] [INFO] === tools 起動完了 ===
+[2026-03-05 15:10:02] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:10:02] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:10:02] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Rename\Action_Rename
+[2026-03-05 15:10:02] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Move\Action_Move
+[2026-03-05 15:10:02] [INFO] === tools 終了 ===
+[2026-03-05 15:10:06] [INFO] config.json を読み込みました
+[2026-03-05 15:10:06] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:10:06] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:10:06] [INFO] 従来コンテキストメニュー: 既に設定済み
+[2026-03-05 15:10:06] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:10:06] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:10:06] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:10:06] [INFO] === tools 起動完了 ===
+[2026-03-05 15:12:21] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:12:21] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:12:21] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Rename\Action_Rename
+[2026-03-05 15:12:21] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Move\Action_Move
+[2026-03-05 15:12:21] [INFO] === tools 終了 ===
+[2026-03-05 15:12:24] [INFO] config.json を読み込みました
+[2026-03-05 15:12:24] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:12:24] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:12:24] [INFO] 従来コンテキストメニュー: 既に設定済み
+[2026-03-05 15:12:24] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:12:24] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:12:24] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:12:24] [INFO] === tools 起動完了 ===
+[2026-03-05 15:19:23] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:19:23] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:19:23] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Action_Rename
+[2026-03-05 15:19:23] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_Action_Move
+[2026-03-05 15:19:23] [INFO] === tools 終了 ===
+[2026-03-05 15:19:26] [INFO] config.json を読み込みました
+[2026-03-05 15:19:26] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:19:26] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:19:26] [INFO] 従来コンテキストメニュー: 既に設定済み
+[2026-03-05 15:19:26] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:19:26] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:19:26] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:19:26] [INFO] === tools 起動完了 ===
+[2026-03-05 15:21:10] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:21:10] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:21:10] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_00_Action_Rename
+[2026-03-05 15:21:10] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_01_Action_Move
+[2026-03-05 15:21:10] [INFO] === tools 終了 ===
+[2026-03-05 15:21:30] [INFO] config.json を読み込みました
+[2026-03-05 15:21:30] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:21:30] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:21:30] [INFO] 従来コンテキストメニュー: 既に設定済み
+[2026-03-05 15:21:30] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:21:30] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:21:30] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:21:30] [INFO] === tools 起動完了 ===
+[2026-03-05 15:24:16] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:24:16] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:24:16] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_00_Action_Rename
+[2026-03-05 15:24:16] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_01_Action_Move
+[2026-03-05 15:24:16] [INFO] === tools 終了 ===
+[2026-03-05 15:24:21] [INFO] config.json を読み込みました
+[2026-03-05 15:24:21] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:24:21] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:24:21] [INFO] 従来コンテキストメニュー: 既に設定済み
+[2026-03-05 15:24:21] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:24:21] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:24:21] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:24:21] [INFO] === tools 起動完了 ===
+[2026-03-05 15:26:04] [INFO] === クリーンアップ開始 ===
+[2026-03-05 15:26:04] [INFO] フォルダ監視を全て停止しました
+[2026-03-05 15:26:04] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_00_Action_Rename
+[2026-03-05 15:26:04] [INFO] 右クリックメニュー解除: Software\Classes\*\shell\MyAuto_01_Action_Move
+[2026-03-05 15:26:04] [INFO] === tools 終了 ===
+[2026-03-05 15:26:09] [INFO] config.json を読み込みました
+[2026-03-05 15:26:09] [INFO] CLIツール読み込み: Tool_FolderTree.ps1
+[2026-03-05 15:26:09] [INFO] CLIツール読み込み: Tool_Search.ps1
+[2026-03-05 15:26:09] [INFO] 従来コンテキストメニュー: 既に設定済み
+[2026-03-05 15:26:09] [INFO] 右クリックメニュー登録: タイムスタンプ付きリネーム -> Rename\Action_Rename
+[2026-03-05 15:26:09] [INFO] 右クリックメニュー登録: ルールで仕分け移動 -> Move\Action_Move
+[2026-03-05 15:26:09] [INFO] フォルダ監視開始: C:\Users\ynisi\Downloads (filter: *.*)
+[2026-03-05 15:26:09] [INFO] === tools 起動完了 ===
