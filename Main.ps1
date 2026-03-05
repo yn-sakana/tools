@@ -215,8 +215,8 @@ function Show-Help {
     Write-Host ""
     Write-Host "=== コマンド一覧 ===" -ForegroundColor Cyan
     Write-Host "  ftree [path]       フォルダツリーを表示（省略時はカレント）"
-    Write-Host "  search <keyword>   エクスポート済みデータを検索"
     Write-Host "  index [table] [key] テーブル検索（引数なしで一覧）"
+    Write-Host "  index gui          テーブル検索 GUI版"
     Write-Host "  status             監視状況・登録メニューの確認"
     Write-Host "  reload             config.json を再読み込み"
     Write-Host "  help               このヘルプを表示"
@@ -281,18 +281,17 @@ function Start-CLILoop {
                 $targetPath = if ($arg) { $arg } else { Get-Location }
                 Invoke-FolderTree -Path $targetPath -ExcludeDirs $script:Config.folderTree.excludeDirs
             }
-            "search" {
-                if (-not $arg) {
-                    Write-Host "使い方: search <キーワード>" -ForegroundColor Yellow
-                } else {
-                    Invoke-DataSearch -Keyword $arg -DataPath $script:Config.dataPath
-                }
-            }
             "index" {
                 $indexParts = $arg -split "\s+", 2
-                $tableName = if ($indexParts[0]) { $indexParts[0] } else { "" }
-                $indexKey = if ($indexParts.Count -gt 1) { $indexParts[1] } else { "" }
-                Invoke-IndexSearch -TableName $tableName -Key $indexKey -DataPath $script:Config.dataPath
+                $sub = if ($indexParts[0]) { $indexParts[0] } else { "" }
+                if ($sub -eq "gui") {
+                    $guiScript = Join-Path $script:BasePath "CLI_Tools\IndexGUI.ps1"
+                    Start-Process powershell -ArgumentList "-WindowStyle Hidden -ExecutionPolicy Bypass -File `"$guiScript`"" -WindowStyle Hidden
+                } else {
+                    $tableName = $sub
+                    $indexKey = if ($indexParts.Count -gt 1) { $indexParts[1] } else { "" }
+                    Invoke-IndexSearch -TableName $tableName -Key $indexKey -DataPath $script:Config.dataPath
+                }
             }
             "status" {
                 Show-Status
@@ -315,7 +314,6 @@ function Start-CLILoop {
 }
 
 # --- メイン処理 ---------------------------------------------------------------
-
 try {
     Write-Host ""
     Write-Host "========================================" -ForegroundColor Cyan

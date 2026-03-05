@@ -18,5 +18,10 @@
     "name": "テストデータ",
     "purpose": "サンプルファイル置き場",
     "folder": "C:\\workspace\\dev\\tools\\Data"
+  },
+  {
+    "name": "WebAppプロジェクト",
+    "purpose": "深い階層のサンプル",
+    "folder": "C:\\workspace\\dev\\tools\\Tests\\Projects\\WebApp"
   }
 ]
