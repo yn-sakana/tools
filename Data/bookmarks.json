@@ -1,0 +1,22 @@
+[
+  {
+    "name": "社内ポータル",
+    "category": "社内",
+    "url": "https://portal.example.com"
+  },
+  {
+    "name": "勤怠システム",
+    "category": "社内",
+    "url": "https://kintai.example.com"
+  },
+  {
+    "name": "GitHub リポジトリ",
+    "category": "開発",
+    "url": "https://github.com/yn-sakana/tools"
+  },
+  {
+    "name": "Teams 共有チャネル",
+    "category": "コミュニケーション",
+    "url": "https://teams.microsoft.com/example"
+  }
+]

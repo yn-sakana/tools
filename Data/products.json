@@ -1,0 +1,66 @@
+[
+  {
+    "code": "PRD-001",
+    "name": "ノートPC 15インチ",
+    "category": "PC",
+    "price": "198000",
+    "stock": "12",
+    "supplier": "ABC商事"
+  },
+  {
+    "code": "PRD-002",
+    "name": "ワイヤレスマウス",
+    "category": "周辺機器",
+    "price": "3500",
+    "stock": "45",
+    "supplier": "DEF工業"
+  },
+  {
+    "code": "PRD-003",
+    "name": "27インチモニター",
+    "category": "モニター",
+    "price": "42000",
+    "stock": "8",
+    "supplier": "ABC商事"
+  },
+  {
+    "code": "PRD-004",
+    "name": "USBハブ 4ポート",
+    "category": "周辺機器",
+    "price": "2800",
+    "stock": "30",
+    "supplier": "GHI建設"
+  },
+  {
+    "code": "PRD-005",
+    "name": "ノートPC 13インチ",
+    "category": "PC",
+    "price": "178000",
+    "stock": "5",
+    "supplier": "ABC商事"
+  },
+  {
+    "code": "PRD-006",
+    "name": "メカニカルキーボード",
+    "category": "周辺機器",
+    "price": "15000",
+    "stock": "20",
+    "supplier": "JKLシステム"
+  },
+  {
+    "code": "PRD-007",
+    "name": "Webカメラ HD",
+    "category": "周辺機器",
+    "price": "8500",
+    "stock": "15",
+    "supplier": "DEF工業"
+  },
+  {
+    "code": "PRD-008",
+    "name": "デスクトップPC",
+    "category": "PC",
+    "price": "250000",
+    "stock": "3",
+    "supplier": "JKLシステム"
+  }
+]

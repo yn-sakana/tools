@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ダウンロード",
+    "purpose": "ブラウザDL先",
+    "folder": "C:\\Users\\ynisi\\Downloads"
+  },
+  {
+    "name": "仕分け済み",
+    "purpose": "自動仕分けの出力先",
+    "folder": "C:\\workspace\\dev\\tools\\Tests\\Sorted"
+  },
+  {
+    "name": "ツール本体",
+    "purpose": "tools プロジェクト",
+    "folder": "C:\\workspace\\dev\\tools"
+  },
+  {
+    "name": "テストデータ",
+    "purpose": "サンプルファイル置き場",
+    "folder": "C:\\workspace\\dev\\tools\\Data"
+  }
+]

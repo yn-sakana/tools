@@ -1,0 +1,22 @@
+[
+  {
+    "subject": "3月度請求書の件",
+    "from": "田中太郎",
+    "date": "2026-03-01",
+    "file": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\tanaka\\3月度請求書.txt"
+  },
+  {
+    "subject": "来週の打ち合わせについて",
+    "from": "鈴木花子",
+    "date": "2026-03-03",
+    "file": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\suzuki\\打ち合わせ.txt",
+    "folder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\suzuki"
+  },
+  {
+    "subject": "見積書送付",
+    "from": "佐藤次郎",
+    "date": "2026-03-04",
+    "file": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\sato\\見積書送付.txt",
+    "folder": "C:\\workspace\\dev\\tools\\Tests\\MailArchive\\sato"
+  }
+]

@@ -216,6 +216,7 @@ function Show-Help {
     Write-Host "=== コマンド一覧 ===" -ForegroundColor Cyan
     Write-Host "  ftree [path]       フォルダツリーを表示（省略時はカレント）"
     Write-Host "  search <keyword>   エクスポート済みデータを検索"
+    Write-Host "  index [table] [key] テーブル検索（引数なしで一覧）"
     Write-Host "  status             監視状況・登録メニューの確認"
     Write-Host "  reload             config.json を再読み込み"
     Write-Host "  help               このヘルプを表示"
@@ -286,6 +287,12 @@ function Start-CLILoop {
                 } else {
                     Invoke-DataSearch -Keyword $arg -DataPath $script:Config.dataPath
                 }
+            }
+            "index" {
+                $indexParts = $arg -split "\s+", 2
+                $tableName = if ($indexParts[0]) { $indexParts[0] } else { "" }
+                $indexKey = if ($indexParts.Count -gt 1) { $indexParts[1] } else { "" }
+                Invoke-IndexSearch -TableName $tableName -Key $indexKey -DataPath $script:Config.dataPath
             }
             "status" {
                 Show-Status
